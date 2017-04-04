@@ -1,0 +1,5 @@
+﻿  test.cpp
+i:\workspace\sip\c+11\test\test.cpp(17): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: 参见“localtime”的声明
+  test.vcxproj -> I:\workspace\sip\c+11\x64\Debug\test.exe
+  test.vcxproj -> I:\workspace\sip\c+11\x64\Debug\test.pdb (Full PDB)
