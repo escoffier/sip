@@ -1,0 +1,108 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (c+11.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  tinyxmlparser.cpp
+  tinyxmlerror.cpp
+  tinyxml.cpp
+i:\workspace\sip\c+11\c+11\xmlparse\tinyxml.cpp(39): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+  tinystr.cpp
+  stdafx.cpp
+  SIPUserServer.cpp
+  Sender.cpp
+i:\workspace\sip\c+11\c+11\sender.cpp(30): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: 参见“localtime”的声明
+  RegisterMessage.cpp
+  MessageQueue.cpp
+  MessageProcessor.cpp
+  MessageFactory.cpp
+  InviteMessage.cpp
+  main.cpp
+  AbstractSender.cpp
+  AbstractMessageProcessor.h
+  abstractmessage.cpp
+  正在运行 C/C++ 代码分析...
+  正在生成代码...
+osip2.lib(fsm_misc.obj) : warning LNK4099: 未找到 PDB“osip2-vc80.pdb”(使用“osip2.lib(fsm_misc.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osip2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osip2.lib(ict.obj) : warning LNK4099: 未找到 PDB“osip2-vc80.pdb”(使用“osip2.lib(ict.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osip2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osip2.lib(ict_fsm.obj) : warning LNK4099: 未找到 PDB“osip2-vc80.pdb”(使用“osip2.lib(ict_fsm.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osip2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osip2.lib(ist.obj) : warning LNK4099: 未找到 PDB“osip2-vc80.pdb”(使用“osip2.lib(ist.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osip2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osip2.lib(ist_fsm.obj) : warning LNK4099: 未找到 PDB“osip2-vc80.pdb”(使用“osip2.lib(ist_fsm.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osip2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osip2.lib(nict.obj) : warning LNK4099: 未找到 PDB“osip2-vc80.pdb”(使用“osip2.lib(nict.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osip2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osip2.lib(nict_fsm.obj) : warning LNK4099: 未找到 PDB“osip2-vc80.pdb”(使用“osip2.lib(nict_fsm.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osip2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osip2.lib(nist.obj) : warning LNK4099: 未找到 PDB“osip2-vc80.pdb”(使用“osip2.lib(nist.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osip2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osip2.lib(nist_fsm.obj) : warning LNK4099: 未找到 PDB“osip2-vc80.pdb”(使用“osip2.lib(nist_fsm.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osip2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osip2.lib(osip.obj) : warning LNK4099: 未找到 PDB“osip2-vc80.pdb”(使用“osip2.lib(osip.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osip2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osip2.lib(osip_dialog.obj) : warning LNK4099: 未找到 PDB“osip2-vc80.pdb”(使用“osip2.lib(osip_dialog.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osip2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osip2.lib(osip_event.obj) : warning LNK4099: 未找到 PDB“osip2-vc80.pdb”(使用“osip2.lib(osip_event.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osip2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osip2.lib(osip_time.obj) : warning LNK4099: 未找到 PDB“osip2-vc80.pdb”(使用“osip2.lib(osip_time.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osip2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osip2.lib(osip_transaction.obj) : warning LNK4099: 未找到 PDB“osip2-vc80.pdb”(使用“osip2.lib(osip_transaction.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osip2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osip2.lib(port_condv.obj) : warning LNK4099: 未找到 PDB“osip2-vc80.pdb”(使用“osip2.lib(port_condv.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osip2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osip2.lib(port_fifo.obj) : warning LNK4099: 未找到 PDB“osip2-vc80.pdb”(使用“osip2.lib(port_fifo.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osip2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osip2.lib(port_sema.obj) : warning LNK4099: 未找到 PDB“osip2-vc80.pdb”(使用“osip2.lib(port_sema.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osip2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osip2.lib(port_thread.obj) : warning LNK4099: 未找到 PDB“osip2-vc80.pdb”(使用“osip2.lib(port_thread.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osip2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osipparser2.lib(osip_accept.obj) : warning LNK4099: 未找到 PDB“osipparser2-vc80.pdb”(使用“osipparser2.lib(osip_accept.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osipparser2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osipparser2.lib(osip_accept_encoding.obj) : warning LNK4099: 未找到 PDB“osipparser2-vc80.pdb”(使用“osipparser2.lib(osip_accept_encoding.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osipparser2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osipparser2.lib(osip_accept_language.obj) : warning LNK4099: 未找到 PDB“osipparser2-vc80.pdb”(使用“osipparser2.lib(osip_accept_language.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osipparser2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osipparser2.lib(osip_alert_info.obj) : warning LNK4099: 未找到 PDB“osipparser2-vc80.pdb”(使用“osipparser2.lib(osip_alert_info.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osipparser2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osipparser2.lib(osip_allow.obj) : warning LNK4099: 未找到 PDB“osipparser2-vc80.pdb”(使用“osipparser2.lib(osip_allow.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osipparser2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osipparser2.lib(osip_authentication_info.obj) : warning LNK4099: 未找到 PDB“osipparser2-vc80.pdb”(使用“osipparser2.lib(osip_authentication_info.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osipparser2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osipparser2.lib(osip_authorization.obj) : warning LNK4099: 未找到 PDB“osipparser2-vc80.pdb”(使用“osipparser2.lib(osip_authorization.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osipparser2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osipparser2.lib(osip_body.obj) : warning LNK4099: 未找到 PDB“osipparser2-vc80.pdb”(使用“osipparser2.lib(osip_body.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osipparser2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osipparser2.lib(osip_call_id.obj) : warning LNK4099: 未找到 PDB“osipparser2-vc80.pdb”(使用“osipparser2.lib(osip_call_id.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osipparser2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osipparser2.lib(osip_call_info.obj) : warning LNK4099: 未找到 PDB“osipparser2-vc80.pdb”(使用“osipparser2.lib(osip_call_info.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osipparser2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osipparser2.lib(osip_contact.obj) : warning LNK4099: 未找到 PDB“osipparser2-vc80.pdb”(使用“osipparser2.lib(osip_contact.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osipparser2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osipparser2.lib(osip_content_disposition.obj) : warning LNK4099: 未找到 PDB“osipparser2-vc80.pdb”(使用“osipparser2.lib(osip_content_disposition.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osipparser2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osipparser2.lib(osip_content_encoding.obj) : warning LNK4099: 未找到 PDB“osipparser2-vc80.pdb”(使用“osipparser2.lib(osip_content_encoding.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osipparser2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osipparser2.lib(osip_content_length.obj) : warning LNK4099: 未找到 PDB“osipparser2-vc80.pdb”(使用“osipparser2.lib(osip_content_length.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osipparser2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osipparser2.lib(osip_content_type.obj) : warning LNK4099: 未找到 PDB“osipparser2-vc80.pdb”(使用“osipparser2.lib(osip_content_type.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osipparser2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osipparser2.lib(osip_cseq.obj) : warning LNK4099: 未找到 PDB“osipparser2-vc80.pdb”(使用“osipparser2.lib(osip_cseq.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osipparser2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osipparser2.lib(osip_error_info.obj) : warning LNK4099: 未找到 PDB“osipparser2-vc80.pdb”(使用“osipparser2.lib(osip_error_info.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osipparser2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osipparser2.lib(osip_from.obj) : warning LNK4099: 未找到 PDB“osipparser2-vc80.pdb”(使用“osipparser2.lib(osip_from.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osipparser2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osipparser2.lib(osip_header.obj) : warning LNK4099: 未找到 PDB“osipparser2-vc80.pdb”(使用“osipparser2.lib(osip_header.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osipparser2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osipparser2.lib(osip_list.obj) : warning LNK4099: 未找到 PDB“osipparser2-vc80.pdb”(使用“osipparser2.lib(osip_list.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osipparser2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osipparser2.lib(osip_md5c.obj) : warning LNK4099: 未找到 PDB“osipparser2-vc80.pdb”(使用“osipparser2.lib(osip_md5c.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osipparser2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osipparser2.lib(osip_message.obj) : warning LNK4099: 未找到 PDB“osipparser2-vc80.pdb”(使用“osipparser2.lib(osip_message.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osipparser2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osipparser2.lib(osip_message_parse.obj) : warning LNK4099: 未找到 PDB“osipparser2-vc80.pdb”(使用“osipparser2.lib(osip_message_parse.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osipparser2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osipparser2.lib(osip_message_to_str.obj) : warning LNK4099: 未找到 PDB“osipparser2-vc80.pdb”(使用“osipparser2.lib(osip_message_to_str.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osipparser2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osipparser2.lib(osip_mime_version.obj) : warning LNK4099: 未找到 PDB“osipparser2-vc80.pdb”(使用“osipparser2.lib(osip_mime_version.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osipparser2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osipparser2.lib(osip_parser_cfg.obj) : warning LNK4099: 未找到 PDB“osipparser2-vc80.pdb”(使用“osipparser2.lib(osip_parser_cfg.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osipparser2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osipparser2.lib(osip_port.obj) : warning LNK4099: 未找到 PDB“osipparser2-vc80.pdb”(使用“osipparser2.lib(osip_port.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osipparser2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osipparser2.lib(osip_proxy_authenticate.obj) : warning LNK4099: 未找到 PDB“osipparser2-vc80.pdb”(使用“osipparser2.lib(osip_proxy_authenticate.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osipparser2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osipparser2.lib(osip_proxy_authentication_info.obj) : warning LNK4099: 未找到 PDB“osipparser2-vc80.pdb”(使用“osipparser2.lib(osip_proxy_authentication_info.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osipparser2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osipparser2.lib(osip_proxy_authorization.obj) : warning LNK4099: 未找到 PDB“osipparser2-vc80.pdb”(使用“osipparser2.lib(osip_proxy_authorization.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osipparser2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osipparser2.lib(osip_record_route.obj) : warning LNK4099: 未找到 PDB“osipparser2-vc80.pdb”(使用“osipparser2.lib(osip_record_route.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osipparser2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osipparser2.lib(osip_route.obj) : warning LNK4099: 未找到 PDB“osipparser2-vc80.pdb”(使用“osipparser2.lib(osip_route.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osipparser2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osipparser2.lib(osip_to.obj) : warning LNK4099: 未找到 PDB“osipparser2-vc80.pdb”(使用“osipparser2.lib(osip_to.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osipparser2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osipparser2.lib(osip_uri.obj) : warning LNK4099: 未找到 PDB“osipparser2-vc80.pdb”(使用“osipparser2.lib(osip_uri.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osipparser2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osipparser2.lib(osip_via.obj) : warning LNK4099: 未找到 PDB“osipparser2-vc80.pdb”(使用“osipparser2.lib(osip_via.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osipparser2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+osipparser2.lib(osip_www_authenticate.obj) : warning LNK4099: 未找到 PDB“osipparser2-vc80.pdb”(使用“osipparser2.lib(osip_www_authenticate.obj)”或在“I:\workspace\sip\c+11\x64\Debug\osipparser2-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+eXosip.lib(eXcall_api.obj) : warning LNK4099: 未找到 PDB“eXosip-vc80.pdb”(使用“eXosip.lib(eXcall_api.obj)”或在“I:\workspace\sip\c+11\x64\Debug\eXosip-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+eXosip.lib(eXconf.obj) : warning LNK4099: 未找到 PDB“eXosip-vc80.pdb”(使用“eXosip.lib(eXconf.obj)”或在“I:\workspace\sip\c+11\x64\Debug\eXosip-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+eXosip.lib(eXinsubscription_api.obj) : warning LNK4099: 未找到 PDB“eXosip-vc80.pdb”(使用“eXosip.lib(eXinsubscription_api.obj)”或在“I:\workspace\sip\c+11\x64\Debug\eXosip-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+eXosip.lib(eXmessage_api.obj) : warning LNK4099: 未找到 PDB“eXosip-vc80.pdb”(使用“eXosip.lib(eXmessage_api.obj)”或在“I:\workspace\sip\c+11\x64\Debug\eXosip-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+eXosip.lib(eXosip.obj) : warning LNK4099: 未找到 PDB“eXosip-vc80.pdb”(使用“eXosip.lib(eXosip.obj)”或在“I:\workspace\sip\c+11\x64\Debug\eXosip-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+eXosip.lib(eXregister_api.obj) : warning LNK4099: 未找到 PDB“eXosip-vc80.pdb”(使用“eXosip.lib(eXregister_api.obj)”或在“I:\workspace\sip\c+11\x64\Debug\eXosip-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+eXosip.lib(eXsubscription_api.obj) : warning LNK4099: 未找到 PDB“eXosip-vc80.pdb”(使用“eXosip.lib(eXsubscription_api.obj)”或在“I:\workspace\sip\c+11\x64\Debug\eXosip-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+eXosip.lib(eXtl_tcp.obj) : warning LNK4099: 未找到 PDB“eXosip-vc80.pdb”(使用“eXosip.lib(eXtl_tcp.obj)”或在“I:\workspace\sip\c+11\x64\Debug\eXosip-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+eXosip.lib(eXtl_tls.obj) : warning LNK4099: 未找到 PDB“eXosip-vc80.pdb”(使用“eXosip.lib(eXtl_tls.obj)”或在“I:\workspace\sip\c+11\x64\Debug\eXosip-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+eXosip.lib(eXtl_udp.obj) : warning LNK4099: 未找到 PDB“eXosip-vc80.pdb”(使用“eXosip.lib(eXtl_udp.obj)”或在“I:\workspace\sip\c+11\x64\Debug\eXosip-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+eXosip.lib(eXutils.obj) : warning LNK4099: 未找到 PDB“eXosip-vc80.pdb”(使用“eXosip.lib(eXutils.obj)”或在“I:\workspace\sip\c+11\x64\Debug\eXosip-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+eXosip.lib(inet_ntop.obj) : warning LNK4099: 未找到 PDB“eXosip-vc80.pdb”(使用“eXosip.lib(inet_ntop.obj)”或在“I:\workspace\sip\c+11\x64\Debug\eXosip-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+eXosip.lib(jauth.obj) : warning LNK4099: 未找到 PDB“eXosip-vc80.pdb”(使用“eXosip.lib(jauth.obj)”或在“I:\workspace\sip\c+11\x64\Debug\eXosip-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+eXosip.lib(jcall.obj) : warning LNK4099: 未找到 PDB“eXosip-vc80.pdb”(使用“eXosip.lib(jcall.obj)”或在“I:\workspace\sip\c+11\x64\Debug\eXosip-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+eXosip.lib(jcallback.obj) : warning LNK4099: 未找到 PDB“eXosip-vc80.pdb”(使用“eXosip.lib(jcallback.obj)”或在“I:\workspace\sip\c+11\x64\Debug\eXosip-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+eXosip.lib(jdialog.obj) : warning LNK4099: 未找到 PDB“eXosip-vc80.pdb”(使用“eXosip.lib(jdialog.obj)”或在“I:\workspace\sip\c+11\x64\Debug\eXosip-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+eXosip.lib(jevents.obj) : warning LNK4099: 未找到 PDB“eXosip-vc80.pdb”(使用“eXosip.lib(jevents.obj)”或在“I:\workspace\sip\c+11\x64\Debug\eXosip-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+eXosip.lib(jnotify.obj) : warning LNK4099: 未找到 PDB“eXosip-vc80.pdb”(使用“eXosip.lib(jnotify.obj)”或在“I:\workspace\sip\c+11\x64\Debug\eXosip-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+eXosip.lib(jpipe.obj) : warning LNK4099: 未找到 PDB“eXosip-vc80.pdb”(使用“eXosip.lib(jpipe.obj)”或在“I:\workspace\sip\c+11\x64\Debug\eXosip-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+eXosip.lib(jpublish.obj) : warning LNK4099: 未找到 PDB“eXosip-vc80.pdb”(使用“eXosip.lib(jpublish.obj)”或在“I:\workspace\sip\c+11\x64\Debug\eXosip-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+eXosip.lib(jreg.obj) : warning LNK4099: 未找到 PDB“eXosip-vc80.pdb”(使用“eXosip.lib(jreg.obj)”或在“I:\workspace\sip\c+11\x64\Debug\eXosip-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+eXosip.lib(jrequest.obj) : warning LNK4099: 未找到 PDB“eXosip-vc80.pdb”(使用“eXosip.lib(jrequest.obj)”或在“I:\workspace\sip\c+11\x64\Debug\eXosip-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+eXosip.lib(jresponse.obj) : warning LNK4099: 未找到 PDB“eXosip-vc80.pdb”(使用“eXosip.lib(jresponse.obj)”或在“I:\workspace\sip\c+11\x64\Debug\eXosip-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+eXosip.lib(jsubscribe.obj) : warning LNK4099: 未找到 PDB“eXosip-vc80.pdb”(使用“eXosip.lib(jsubscribe.obj)”或在“I:\workspace\sip\c+11\x64\Debug\eXosip-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+eXosip.lib(milenage.obj) : warning LNK4099: 未找到 PDB“eXosip-vc80.pdb”(使用“eXosip.lib(milenage.obj)”或在“I:\workspace\sip\c+11\x64\Debug\eXosip-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+eXosip.lib(misc.obj) : warning LNK4099: 未找到 PDB“eXosip-vc80.pdb”(使用“eXosip.lib(misc.obj)”或在“I:\workspace\sip\c+11\x64\Debug\eXosip-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+eXosip.lib(rijndael.obj) : warning LNK4099: 未找到 PDB“eXosip-vc80.pdb”(使用“eXosip.lib(rijndael.obj)”或在“I:\workspace\sip\c+11\x64\Debug\eXosip-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+eXosip.lib(udp.obj) : warning LNK4099: 未找到 PDB“eXosip-vc80.pdb”(使用“eXosip.lib(udp.obj)”或在“I:\workspace\sip\c+11\x64\Debug\eXosip-vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  c+11.vcxproj -> I:\workspace\sip\c+11\x64\Debug\SIPUuserServer.exe
+  c+11.vcxproj -> I:\workspace\sip\c+11\x64\Debug\SIPUuserServer.pdb (Full PDB)
+i:\workspace\sip\c+11\c+11\xmlparse\tinyxml.cpp(134): warning C6054: 可能没有为字符串“buf”添加字符串零终止符。
